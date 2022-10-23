@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Personal_Website/static/css/main.4808df3e.css",
-    "main.js": "/Personal_Website/static/js/main.e9ecddd4.js",
-    "static/media/profile.JPG": "/Personal_Website/static/media/profile.4eabaa1abc6d715500c5.JPG",
-    "static/media/cv.pdf": "/Personal_Website/static/media/cv.75c64d578c68a8c82e03.pdf",
-    "static/media/AboutImg.jpg": "/Personal_Website/static/media/AboutImg.af71f7e893c86697cf25.jpg",
-    "index.html": "/Personal_Website/index.html",
-    "main.4808df3e.css.map": "/Personal_Website/static/css/main.4808df3e.css.map",
-    "main.e9ecddd4.js.map": "/Personal_Website/static/js/main.e9ecddd4.js.map"
+    "main.css": "/Rudra_Prasad_Sahu/static/css/main.d4282ac7.css",
+    "main.js": "/Rudra_Prasad_Sahu/static/js/main.10a1cdf7.js",
+    "static/media/profile.JPG": "/Rudra_Prasad_Sahu/static/media/profile.4eabaa1abc6d715500c5.JPG",
+    "static/media/cv.pdf": "/Rudra_Prasad_Sahu/static/media/cv.75c64d578c68a8c82e03.pdf",
+    "static/media/AboutImg.jpg": "/Rudra_Prasad_Sahu/static/media/AboutImg.af71f7e893c86697cf25.jpg",
+    "index.html": "/Rudra_Prasad_Sahu/index.html",
+    "main.d4282ac7.css.map": "/Rudra_Prasad_Sahu/static/css/main.d4282ac7.css.map",
+    "main.10a1cdf7.js.map": "/Rudra_Prasad_Sahu/static/js/main.10a1cdf7.js.map"
   },
   "entrypoints": [
-    "static/css/main.4808df3e.css",
-    "static/js/main.e9ecddd4.js"
+    "static/css/main.d4282ac7.css",
+    "static/js/main.10a1cdf7.js"
   ]
 }
