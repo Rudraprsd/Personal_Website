@@ -21,11 +21,11 @@ const Qualification = () => {
                         Education
                     </div>
 
-                    <div className={toggleState === 2 ? "qualification__button qualification__active button--flex" : "qualification__button button--flex"}
+                    {/* <div className={toggleState === 2 ? "qualification__button qualification__active button--flex" : "qualification__button button--flex"}
                     onClick = {() => toggleTab(2)}>
                         <i className="uil uil-briefcase-alt qualification__icon"></i>
                         Experience
-                    </div>
+                    </div> */}
 
 
                 </div>
@@ -35,8 +35,8 @@ const Qualification = () => {
                     <div className={toggleState === 1 ? "qualification__content qualification__content-active" : "qualification__content "}>
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">Scientist</h3>
-                                <span className="qualification__subtitle">Indian Institute</span>
+                                <h3 className="qualification__title">BS-MS</h3>
+                                <span className="qualification__subtitle">IISER, Berhampur</span>
                                 <div className="qualification__calender">
                                     <i className="uil uil-calender-alt"></i> 2021 - Present
                                 </div>
@@ -55,19 +55,19 @@ const Qualification = () => {
                                 <span className="qualification__line"></span>
                             </div>
                             <div>
-                                <h3 className="qualification__title">Entrepreneur</h3>
-                                <span className="qualification__subtitle">Indian Institute</span>
+                                <h3 className="qualification__title">11th & 12th</h3>
+                                <span className="qualification__subtitle">SKIS, Bhubaneswar</span>
                                 <div className="qualification__calender">
-                                    <i className="uil uil-calender-alt"></i> 2021 - Present
+                                    <i className="uil uil-calender-alt"></i> 2020 - 2021
                                 </div>
                             </div>
                         </div>
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">Scientist</h3>
-                                <span className="qualification__subtitle">Indian Institute</span>
+                                <h3 className="qualification__title">6th - 10th</h3>
+                                <span className="qualification__subtitle">JNV, Ganjam</span>
                                 <div className="qualification__calender">
-                                    <i className="uil uil-calender-alt"></i> 2021 - Present
+                                    <i className="uil uil-calender-alt"></i>2014 - 2019
                                 </div>
                             </div>
 
@@ -76,7 +76,7 @@ const Qualification = () => {
                                 <span className="qualification__line"></span>
                             </div>
                         </div>
-                        <div className="qualification__data">
+                        {/* <div className="qualification__data">
                             <div></div>
 
                             <div>
@@ -90,9 +90,9 @@ const Qualification = () => {
                                     <i className="uil uil-calender-alt"></i> 2017 - 2018
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
                     </div>
-                    <div className={toggleState === 2 ? "qualification__content qualification__content-active" : "qualification__content "}>
+                    {/* <div className={toggleState === 2 ? "qualification__content qualification__content-active" : "qualification__content "}>
                         <div className="qualification__data">
                             <div>
                                 <h3 className="qualification__title">Scientist</h3>
@@ -136,7 +136,7 @@ const Qualification = () => {
                                 <span className="qualification__line"></span>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
                 </div>
             </div>
         </section>

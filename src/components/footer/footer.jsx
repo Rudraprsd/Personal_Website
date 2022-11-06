@@ -5,17 +5,17 @@ const Footer = () => {
     return (
         <footer className="footer">
             <div className="footer__container container">
-                <h1 className="footer__title">Rudra</h1>
+                <h1 className="footer__title">Rudra Prasad Sahu</h1>
 
                 <ul className="footer__list">
                     <li>
                         <a href="#about" className="footer__link">About</a>
                     </li>
                     <li>
-                        <a href="#projects" className="footer__link">Projects</a>
+                        <a href="#skills" className="footer__link">Skills</a>
                     </li>
                     <li>
-                        <a href="#about" className="footer__link">Testimonials</a>
+                        <a href="#qualification" className="footer__link">Qualification</a>
                     </li>
                 </ul>
 
