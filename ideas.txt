@@ -5,3 +5,4 @@
 5. Blog website will be different and link should be given at both navbar and footer.
 6. Logo should more round. the radius of circle is uneven.
 7. have to remove blue highlight, in mobile, when clicking a button. 
+8. Contain a periodic table, design copied from lively wallpaper file.
